@@ -17,7 +17,6 @@ import com.actividad04.service.DeporteService;
 import com.actividad04.service.ModalidadService;
 
 
-
 @RestController
 @RequestMapping("/rest/modalidad")
 public class ModalidadController {
